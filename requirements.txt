@@ -8,10 +8,15 @@ sqlparse==0.4.2
 tzdata==2021.5
 whitenoise==5.3.0
 voila
+bqplots
+ipympl
+ipyvolume
+scipy
+voila
 pandas
 matplotlib
 scikit-learn
 jupyter
 numpy
-IPython
+ipython
 ipywidgets
