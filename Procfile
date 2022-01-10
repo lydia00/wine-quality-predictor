@@ -1,1 +1,1 @@
-worker: voila --port=$PORT --no-browser wine-quality-predictor.ipynb 
+web: voila --port=$PORT --no-browser wine-quality-predictor.ipynb 
