@@ -8,3 +8,9 @@ sqlparse==0.4.2
 tzdata==2021.5
 whitenoise==5.3.0
 jupyter_server
+voila
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyter
